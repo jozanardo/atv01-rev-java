@@ -1,4 +1,4 @@
-# Template para exercícios de POO
+# Template para exercícios de POO (Programação Orientada a Objetos)
 
 Template para criação de projetos IntelliJ IDEA configurados para as aulas de POO ministradas na Universidade Federal do ABC. 
 
