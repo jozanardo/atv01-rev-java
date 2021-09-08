@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "gradle check -i",
+      "setup": "",
+      "run": "gradle check -i",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": null
+    }
+  ]
+}
